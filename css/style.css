@@ -1,0 +1,157 @@
+
+.button--cta1 {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    padding: 0;
+    margin: 0;
+    font: inherit;
+    color: inherit;
+    background: transparent;
+    border: none;
+    line-height: normal;
+    font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: 400;
+    font-size: 17px;
+    cursor: default;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    height: auto;
+    text-decoration: none;
+    padding: 4px 10px;
+    font-size: 17px;
+    line-height: 32px;
+    letter-spacing: 0;
+    color: #fff;
+    vertical-align: middle;
+    background-color: #7ECF81;
+    border: 0px solid currentColor;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-transition: none;
+    -moz-transition: none;
+    -o-transition: none;
+    transition: none;
+    border: none;
+    background-color: #7ECF81;
+    color: #fff;
+}
+
+.button--cta2 {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    padding: 0;
+    margin: 0;
+    font: inherit;
+    color: inherit;
+    background: transparent;
+    border: none;
+    line-height: normal;
+    font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: 400;
+    font-size: 17px;
+    cursor: default;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    height: auto;
+    text-decoration: none;
+    padding: 4px 10px;
+    font-size: 17px;
+    /*line-height: 32px;*/
+    letter-spacing: 0;
+    color: #fff;
+    vertical-align: middle;
+    background-color: rgba(24,103,194,0.81);
+    border: 0px solid currentColor;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-transition: none;
+    -moz-transition: none;
+    -o-transition: none;
+    transition: none;
+    border: none;
+    background-color: #25a6d9;
+    color: #fff;
+}
+
+
+.button--lightactive {
+    background-color: transparent;
+    color: rgba(0,0,0,0.4);
+    border: 1px solid rgba(0,0,0,0.2);
+    background-color: rgba(0,0,0,0.05);
+    color: rgba(0,0,0,0.4);
+    border: 1px solid rgba(0,0,0,0.2);
+    opacity: 1;
+}
+
+.photo {
+    /*background-position: 50% 50%;*/
+    width: 98%;
+    height: auto;
+    overflow: hidden;
+    float: left;
+    margin-left:  5px;
+    margin-right: 5px;
+    border: 3px solid white;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, .3);
+    vertical-align: middle;
+    text-align: center;
+}
+.imsgsrc {
+    /*background-position: 50% 50%;*/
+    height: auto;
+    max-width:320px;
+    width:100%;
+    vertical-align: middle;
+}
+.ptext {
+    padding:5px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;
+}
+
+
+
+.button--outline2 {
+  background-color: transparent;
+  border: 1px solid #7ECF81;
+  color: rgba(24,103,194,0.81);
+}
+.button--outline2:active {
+  background-color: #7ECF81;
+  border: 1px solid #7ECF81;
+  color: rgba(24,103,194,0.81);
+  opacity: 1;
+}
+.button--outline2:hover {
+  border: 1px solid #7ECF81;
+  -webkit-transition: 0;
+  -moz-transition: 0;
+  -o-transition: 0;
+  transition: 0;
+}
